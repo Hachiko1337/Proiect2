@@ -1,0 +1,3 @@
+Folderul Model a fost redenumit in newModel deoarece au fost adaugate adnotarile de [DataMember] si [DataContract(IsReference = True)] in clasele Property.cs, File.cs si Metadata.cs .
+
+Urmeaza lucrul la partea de ObjectWCF si Client.
